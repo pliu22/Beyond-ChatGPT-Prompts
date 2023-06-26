@@ -30,7 +30,7 @@
       "isNeedSend": false
     },
     {
-        "name":"测试"
+        "name":"线上同步测试"
         "value": "如果你可以看到这个模型，说明你已成功和线上同步prompts",
         "isNeedSend": false
     }
